@@ -1,6 +1,6 @@
-#  Online Drink Order by MAYURI CAFÉ 
+#  Online Drink Order by MAYURI CAFE
 
-Project Title: Online Drink Order by MAYURI CAFÉ 
+Project Title: Online Drink Order by MAYURI CAFE 
 Chosen Domain: Retail & E-commerce 
 Real-World Problem Identified: Wastage of 
 ‘time’ in actually going and purchasing. 
