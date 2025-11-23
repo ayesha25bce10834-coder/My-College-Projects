@@ -17,7 +17,7 @@ Technology Stack and Tools:
 Course Applied: Fundamentals of Python 
 Programming  
 Programming Language(s): Python 
-Development Environment: VS CODE editor 
+Development Environment:Google Colab and VS CODE editor 
 Top-Down Design and Modularisation: 
 
 
